@@ -1,18 +1,17 @@
-# A handy guide to financial support for open source.
-*"I do open source work, how do I find funding?"*
+# Un guide pratique pour trouver des financements pour l'open source
+*"Je travaille en open source, comment trouver un financement?"*
 
-This document aims to provide an exhaustive list of all the ways that people get paid for open source work. Hopefully, projects and contributors will find this helpful in figuring out the best options for them.
 
-The list below is roughly ordered from small to large. Each funding category links to several real examples (using topical articles or pages wherever possible instead of just a project's homepage.)
+Ce document a pour objectif de fournir une liste exhaustive de toutes les façons dont les gens sont payés pour faire leurs travaux open source. Nous espérons que certains projets ou contributeurs trouveront la meilleure option pour eux dans ce document.
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. 
+La liste ci-dessous est ordonnée par ordre d'ampleur. Chaque catégorie renvoie à plusieurs exemples réels (avec explication de leur choix quand cela est possible).
 
+Les categories ne sont pas mutuellement exclusives. Par exemple, un projet peut être associé à une fondation mais peut aussi utiliser les levées de fond pour trouver de l'argent. On peut aussi faire du consulting et avoir un bouton de donation. Etc.
 
 ---
 
-
-# Table of Contents
-1. [Donation button](#donation-button)
+# Table des matières
+1. [Bouton "donner"](#donation-button)
 2. [Bounties](#bounties)
 3. [Crowdfunding (one-time)](#crowdfunding-one-time)
 4. [Crowdfunding (recurring)](#crowdfunding-recurring)
@@ -35,23 +34,23 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
-## Donation button
+## Bouton "donner"
 
-*Stick a donation button on your site. Stripe and PayPal are examples of services you can use to accept donations.*
+*Ajoutez un bouton "donner" sur votre site. Vous pouvez utiliser Stripe ou PayPal, par exemple, pour accepter les donations*
 
-#### Pros
+#### Avantages
 
-* Few strings attached
-* Little work involved: "set it and forget it"
+* Pas ou peu d'engagement
+* Peu de travail pour la mise en place: "set it and forget it"
 
-#### Cons
+#### Inconvénients
 
-* Usually not much money unless you have dedicated fundraising efforts
-* Need an entity to accept donations, which may take a fee for doing so.  Examples are Stripe and PayPal.
-* To make donations tax-free for the person/organization who is donating, may need a legally charitable entity (in the United States, a 501(c)(3) nonprofit entity) to accept donations. [SFC](https://sfconservancy.org) and [NumFOCUS](https://www.numfocus.org) are examples. Harder for individuals or international donations to manage
-* Sometimes not clear who “deserves” money in a project or how it gets distributed. An entity like [OpenCollective](http://opencollective.com) may help with this.
+* Génère peu d'argent sauf si vous déployez des efforts particuliers pour la levée de fonds;
+* Besoin d'une plateforme intermédiaire pour recevoir l'argent. Les plateformes comme Stripe et PayPal prélèvent une taxe sur les transferts d'argent;
+* Afin de faire une donation nette d'impôts, il faut que l'organisation qui reçoit les fonds soit reconnue d'utilité publique (aux états unis, c'est une 501(c)(3) organisation à but non lucratif);
+* Parfois difficile d'identifier qui "mérite" l'argent dans un projet ou comment cet argent est distribué. Une organisation comme [OpenCollective](http://opencollective.com) peut aider.
 
-#### Case Studies
+#### Etude de cas
 
 * [Twisted](https://twistedmatrix.com/trac/wiki/WhyDonate)
 * [Git](https://git-scm.com/sfc)
