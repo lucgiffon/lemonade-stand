@@ -59,20 +59,20 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Bounties
 
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+*Parfois, des projets ou des compagnies offrent des récompenses (bounties) pour des travaux open source (par exemple "corrigez ce problème contre 100€"). Il y a de nombreux sites web (listés ci-dessous) qui centralisent les offres et facilitent la récupération de la récompense*
 
 #### Pros
 
-* Open to community participation
-* Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
+* Ouvert à la participation de la communauté
+* L'investissement est associé à un travail spécifique (plus comme un service payé que comme une donation)
+* Particulièrement populaire en sécurité informatique
 
 #### Cons
 
-* Can create perverse incentives in a project (low quality PRs, distracting priorities)
-* Conflicts can arise over whether work fulfills a bounty
-* Usually not much money per bounty (~<$500)
-* Doesn’t provide recurring revenue
+* Peut avoir des effets pervers (Pull Request faites à la va-vite, ...)
+* Conflits pour savoir si un travail mérite une récompense ou pas
+* Généralement peu d'argent pour chaque récompense
+* Revenu irrégulier
 
 #### Case Studies
 
@@ -82,6 +82,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 * [Status Open Bounty](https://openbounty.status.im/)
+* [Yes We Hack](https://yeswehack.com/en/index.html)
 
 ## Crowdfunding (one-time)
 
