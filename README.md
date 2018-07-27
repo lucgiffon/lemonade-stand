@@ -57,24 +57,24 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Transmission](https://www.transmissionbt.com/)
 * [ChatSecure](https://chatsecure.org/blog/sustainable-open-source-starts-with-you/)
 
-## Bounties
+## Récompenses
 
 *Parfois, des projets ou des compagnies offrent des récompenses (bounties) pour des travaux open source (par exemple "corrigez ce problème contre 100€"). Il y a de nombreux sites web (listés ci-dessous) qui centralisent les offres et facilitent la récupération de la récompense*
 
-#### Pros
+#### Avantages
 
 * Ouvert à la participation de la communauté
 * L'investissement est associé à un travail spécifique (plus comme un service payé que comme une donation)
 * Particulièrement populaire en sécurité informatique
 
-#### Cons
+#### Inconvénients
 
 * Peut avoir des effets pervers (Pull Request faites à la va-vite, ...)
 * Conflits pour savoir si un travail mérite une récompense ou pas
 * Généralement peu d'argent pour chaque récompense
 * Revenu irrégulier
 
-#### Case Studies
+#### Etude de cas
 
 * [Gitcoin](https://gitcoin.co/explorer)
 * [Bountysource](http://bountysource.com)
@@ -84,23 +84,23 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Status Open Bounty](https://openbounty.status.im/)
 * [Yes We Hack](https://yeswehack.com/en/index.html)
 
-## Crowdfunding (one-time)
+## Levée de fonds (ponctuelle)
 
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+*si vous avez une idée spécifique à accomplir (plutôt qu'un projet sur le long terme), une campagne de levée de fond ponctuelle peut vous aider à rassembler les fonds nécessaires. Les personnes physiques et morales peuvent participer à votre campagne.*
 
-#### Pros
+#### Avantages
 
-* Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Kickstarter](https://kickstarter.com/)
+* Pas ou peu d'engagement
+* Peut être simple à gérer légalement pour une personne seule
 
-#### Cons
+#### Inconvénients
 
-* Lots of work involved to market campaign
-* Usually has to be tied to concrete outcome, perks
-* Usually not that much money (~$50K for one time)
-* Companies not always comfortable donating to campaigns
+* Beaucoup de travail de communication autour de la campagne
+* Habituellement associé à un retour concret sur investissement
+* Habituellement pas si rentable (~ 50 000$ pour une campagne)
+* Les entreprises n'ont pas toujours envie de donner à des campagnes
 
-#### Case Studies
+#### Etude de cas
 
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
